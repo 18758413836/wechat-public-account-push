@@ -13,7 +13,7 @@ export const config = {
     TEMPLATE_ID: "7HfnhHdjuYl6W9uYACrkdAC6zs0aFN09pkATs2-ALMs",  
     
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1","wx2"]
-    USERS: ["oYN-758D1YL6PZOv3-IuKL5bJNPk"],
+    USERS: "oYN-758D1YL6PZOv3-IuKL5bJNPk",
     /
     /**
      * 信息配置
