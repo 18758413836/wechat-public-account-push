@@ -24,7 +24,7 @@ export const config = {
     // 所在省份
     PROVINCE: "上海",
     // 所在城市
-    CITY: "惠州",
+    CITY: "浦东",
 
     /** 重要节日相关 */
 
